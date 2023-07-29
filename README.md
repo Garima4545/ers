@@ -2,7 +2,7 @@
 
 The Employee Review web application enables employees to provide feedback on each other's performance. Users are assigned either an "employee" or "admin" role, and the application displays different dashboard pages based on their role. Admin users have the ability to assign employees to participate in reviews of their peers, while employees can only submit feedback for the assigned reviews. The application is developed using Node.js, Express.js, MongoDB, EJS, and JavaScript.
 
-### 🔗 Hosted link: [Employee review system](https://employee-review-system-ul7m.onrender.com)
+### 🔗 Hosted link: [Employee review system](https://ers-project-0yl0.onrender.com)
 
 ![image_2023-06-12_22-59-08](https://github.com/chandra827/Employee_review_System/assets/100562557/2e8b69ad-9793-445e-a30d-82ded26e4014)
 
